@@ -57,13 +57,15 @@ userauthapp/
 │ │ │ │ ├── LoginActivity.java
 │ │ │ │ ├── ForgetActivity.java
 │ │ │ │ └── DatabaseHelper.java
-│ │ │ └── res/
-│ │ │ └── layout/
-│ │ │ ├── activity_main.xml
-│ │ │ ├── activity_login.xml
-│ │ │ └── activity_forget.xml
-│ │ └── AndroidManifest.xml
+│ │ │ ├── res/
+│ │ │ │ └── layout/
+│ │ │ │ ├── activity_main.xml
+│ │ │ │ ├── activity_login.xml
+│ │ │ │ └── activity_forget.xml
+│ │ │ └── AndroidManifest.xml
 ├── build.gradle
 └── README.md
+
+
 
 
