@@ -12,7 +12,7 @@ It demonstrates a complete user authentication flow including:
 - Update Password
 - Delete Account
 
-The application is designed for academic purposes and follows clean and beginner-friendly coding practices.
+The application is designed clean and beginner-friendly coding practices.
 
 ---
 
@@ -44,4 +44,19 @@ The application is designed for academic purposes and follows clean and beginner
 ---
 
 ## 🗂 Project Structure
+
+app
+├── java
+│ └── com.example.userauthapp
+│ ├── MainActivity.java
+│ ├── LoginActivity.java
+│ ├── ForgetActivity.java
+│ └── DatabaseHelper.java
+│
+└── res
+└── layout
+├── activity_main.xml
+├── activity_login.xml
+└── activity_forget.xml
+
 
