@@ -45,18 +45,25 @@ The application is designed clean and beginner-friendly coding practices.
 
 ## 🗂 Project Structure
 
-app
-├── java
-│ └── com.example.userauthapp
-│ ├── MainActivity.java
-│ ├── LoginActivity.java
-│ ├── ForgetActivity.java
-│ └── DatabaseHelper.java
-│
-└── res
-└── layout
-├── activity_main.xml
-├── activity_login.xml
-└── activity_forget.xml
+userauthapp/
+├── app/
+│ ├── src/
+│ │ ├── main/
+│ │ │ ├── java/
+│ │ │ │ └── com/
+│ │ │ │ └── example/
+│ │ │ │ └── userauthapp/
+│ │ │ │ ├── MainActivity.java
+│ │ │ │ ├── LoginActivity.java
+│ │ │ │ ├── ForgetActivity.java
+│ │ │ │ └── DatabaseHelper.java
+│ │ │ └── res/
+│ │ │ └── layout/
+│ │ │ ├── activity_main.xml
+│ │ │ ├── activity_login.xml
+│ │ │ └── activity_forget.xml
+│ │ └── AndroidManifest.xml
+├── build.gradle
+└── README.md
 
 
