@@ -1,4 +1,5 @@
 # android-user-authentication
+
 A simple Android application built in Java using SQLite database that implements user registration, login, password update, and account deletion functionality.
 
 # Android User Authentication App
@@ -12,7 +13,7 @@ It demonstrates a complete user authentication flow including:
 - Update Password
 - Delete Account
 
-The application is designed clean and beginner-friendly coding practices.
+The application is designed with clean and beginner-friendly coding practices.
 
 ---
 
@@ -45,6 +46,7 @@ The application is designed clean and beginner-friendly coding practices.
 
 ## 🗂 Project Structure
 
+
 userauthapp/
 ├── app/
 │ ├── src/
@@ -65,7 +67,5 @@ userauthapp/
 │ │ │ └── AndroidManifest.xml
 ├── build.gradle
 └── README.md
-
-
-
+## 🗂 Project Structure
 
