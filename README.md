@@ -46,7 +46,7 @@ The application is designed with clean and beginner-friendly coding practices.
 
 ## 🗂 Project Structure
 
----
+```text
 userauthapp/
 ├── app/
 │ ├── src/
@@ -67,3 +67,4 @@ userauthapp/
 │ │ │ └── AndroidManifest.xml
 ├── build.gradle
 └── README.md
+```
