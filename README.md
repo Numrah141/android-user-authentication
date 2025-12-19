@@ -46,7 +46,7 @@ The application is designed with clean and beginner-friendly coding practices.
 
 ## 🗂 Project Structure
 
-
+---
 userauthapp/
 ├── app/
 │ ├── src/
