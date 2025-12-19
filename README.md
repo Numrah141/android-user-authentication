@@ -67,5 +67,3 @@ userauthapp/
 │ │ │ └── AndroidManifest.xml
 ├── build.gradle
 └── README.md
-## 🗂 Project Structure
-
